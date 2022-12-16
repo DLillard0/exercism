@@ -1,5 +1,5 @@
 {
   "rust-analyzer.linkedProjects": [
-    "./rust/role-playing-game/Cargo.toml"
+    "./rust/magazine-cutout/Cargo.toml"
   ]
 }
