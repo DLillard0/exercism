@@ -1,5 +1,5 @@
 {
   "rust-analyzer.linkedProjects": [
-    "./rust/low-power-embedded-game/Cargo.toml"
+    "./rust/role-playing-game/Cargo.toml"
   ]
 }
