@@ -1,6 +1,5 @@
 {
   "rust-analyzer.linkedProjects": [
-    "./rust/resistor-color/Cargo.toml",
-    "./rust/health-statistics/Cargo.toml"
+    "./rust/low-power-embedded-game/Cargo.toml"
   ]
 }
