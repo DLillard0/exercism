@@ -1,5 +1,5 @@
 {
   "rust-analyzer.linkedProjects": [
-    "./rust/short-fibonacci/Cargo.toml"
+    "./rust/rpn-calculator/Cargo.toml"
   ]
 }
