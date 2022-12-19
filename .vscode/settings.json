@@ -1,5 +1,5 @@
 {
   "rust-analyzer.linkedProjects": [
-    "./rust/magazine-cutout/Cargo.toml"
+    "./rust/short-fibonacci/Cargo.toml"
   ]
 }
