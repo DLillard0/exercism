@@ -1,5 +1,5 @@
 {
   "rust-analyzer.linkedProjects": [
-    "./rust/reverse-string/Cargo.toml"
+    "./rust/gigasecond/Cargo.toml"
   ]
 }
