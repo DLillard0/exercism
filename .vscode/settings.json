@@ -1,5 +1,5 @@
 {
   "rust-analyzer.linkedProjects": [
-    "./rust/rpn-calculator/Cargo.toml"
+    "./rust/reverse-string/Cargo.toml"
   ]
 }
