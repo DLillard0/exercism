@@ -1,5 +1,5 @@
 {
   "rust-analyzer.linkedProjects": [
-    "./rust/anagram/Cargo.toml"
+    "./rust/space-age/Cargo.toml"
   ]
 }
