@@ -1,5 +1,5 @@
 {
   "rust-analyzer.linkedProjects": [
-    "./rust/minesweeper/Cargo.toml"
+    "./rust/luhn/Cargo.toml"
   ]
 }
