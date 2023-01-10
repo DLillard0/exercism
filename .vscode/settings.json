@@ -1,5 +1,5 @@
 {
   "rust-analyzer.linkedProjects": [
-    "./rust/armstrong-numbers/Cargo.toml"
+    "./rust/beer-song/Cargo.toml"
   ]
 }
