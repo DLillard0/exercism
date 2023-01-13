@@ -1,5 +1,5 @@
 {
   "rust-analyzer.linkedProjects": [
-    "./rust/beer-song/Cargo.toml"
+    "./rust/difference-of-squares/Cargo.toml"
   ]
 }
