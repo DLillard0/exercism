@@ -1,5 +1,5 @@
 {
   "rust-analyzer.linkedProjects": [
-    "./rust/difference-of-squares/Cargo.toml"
+    "./rust/grains/Cargo.toml"
   ]
 }
