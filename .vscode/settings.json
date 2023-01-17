@@ -1,5 +1,5 @@
 {
   "rust-analyzer.linkedProjects": [
-    "./rust/leap/Cargo.toml"
+    "./rust/nth-prime/Cargo.toml"
   ]
 }
