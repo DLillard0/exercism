@@ -1,5 +1,5 @@
 {
   "rust-analyzer.linkedProjects": [
-    "./rust/prime-factors/Cargo.toml"
+    "./rust/proverb/Cargo.toml"
   ]
 }
