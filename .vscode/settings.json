@@ -1,5 +1,5 @@
 {
   "rust-analyzer.linkedProjects": [
-    "./rust/raindrops/Cargo.toml"
+    "./rust/sum-of-multiples/Cargo.toml"
   ]
 }
