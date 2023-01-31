@@ -1,5 +1,5 @@
 {
   "rust-analyzer.linkedProjects": [
-    "./rust/bob/Cargo.toml"
+    "./rust/high-scores/Cargo.toml"
   ]
 }
