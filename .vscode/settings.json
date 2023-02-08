@@ -1,5 +1,5 @@
 {
   "rust-analyzer.linkedProjects": [
-    "./rust/etl/Cargo.toml"
+    "./rust/grade-school/Cargo.toml"
   ]
 }
