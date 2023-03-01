@@ -1,5 +1,5 @@
 {
   "rust-analyzer.linkedProjects": [
-    "./rust/hamming/Cargo.toml"
+    "./rust/isbn-verifier/Cargo.toml"
   ]
 }
