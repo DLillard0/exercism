@@ -1,5 +1,5 @@
 {
   "rust-analyzer.linkedProjects": [
-    "./rust/pangram/Cargo.toml"
+    "./rust/pascals-triangle/Cargo.toml"
   ]
 }
