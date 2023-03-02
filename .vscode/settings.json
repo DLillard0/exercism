@@ -1,5 +1,5 @@
 {
   "rust-analyzer.linkedProjects": [
-    "./rust/nucleotide-count/Cargo.toml"
+    "./rust/palindrome-products/Cargo.toml"
   ]
 }
