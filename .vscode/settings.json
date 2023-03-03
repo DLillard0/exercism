@@ -1,5 +1,5 @@
 {
   "rust-analyzer.linkedProjects": [
-    "./rust/pascals-triangle/Cargo.toml"
+    "./rust/perfect-numbers/Cargo.toml"
   ]
 }
