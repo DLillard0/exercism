@@ -1,5 +1,5 @@
 {
   "rust-analyzer.linkedProjects": [
-    "./rust/perfect-numbers/Cargo.toml"
+    "./rust/pig-latin/Cargo.toml"
   ]
 }
