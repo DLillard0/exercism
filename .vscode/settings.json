@@ -1,5 +1,5 @@
 {
   "rust-analyzer.linkedProjects": [
-    "./rust/queen-attack/Cargo.toml"
+    "./rust/rna-transcription/Cargo.toml"
   ]
 }
