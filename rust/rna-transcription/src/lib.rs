@@ -6,13 +6,13 @@ pub struct Rna(String);
 
 impl Dna {
     pub fn new(dna: &str) -> Result<Dna, usize> {
-        match dna.chars().enumerate().find(|(_, c)| {
+        match dna.chars().position(|c| {
             match c {
                 'A' | 'C' | 'G' | 'T' => false,
                 _ => true
             }
         }) {
-            Some((i, _)) => Err(i),
+            Some(i) => Err(i),
             None => Ok(Dna(dna.to_string()))
         }
     }
@@ -34,13 +34,13 @@ impl Dna {
 
 impl Rna {
     pub fn new(rna: &str) -> Result<Rna, usize> {
-        match rna.chars().enumerate().find(|(_, c)| {
+        match rna.chars().position(|c| {
             match c {
                 'C' | 'G' | 'A' | 'U' => false,
                 _ => true
             }
         }) {
-            Some((i, _)) => Err(i),
+            Some(i) => Err(i),
             None => Ok(Rna(rna.to_string()))
         }
     }
