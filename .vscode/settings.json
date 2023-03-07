@@ -1,5 +1,5 @@
 {
   "rust-analyzer.linkedProjects": [
-    "./rust/rna-transcription/Cargo.toml"
+    "./rust/run-length-encoding/Cargo.toml"
   ]
 }
