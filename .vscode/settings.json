@@ -1,5 +1,5 @@
 {
   "rust-analyzer.linkedProjects": [
-    "./rust/pig-latin/Cargo.toml"
+    "./rust/queen-attack/Cargo.toml"
   ]
 }
