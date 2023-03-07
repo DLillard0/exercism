@@ -1,5 +1,5 @@
 {
   "rust-analyzer.linkedProjects": [
-    "./rust/run-length-encoding/Cargo.toml"
+    "./rust/saddle-points/Cargo.toml"
   ]
 }
