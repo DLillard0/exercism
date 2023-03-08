@@ -1,5 +1,5 @@
 {
   "rust-analyzer.linkedProjects": [
-    "./rust/scrabble-score/Cargo.toml"
+    "./rust/sieve/Cargo.toml"
   ]
 }
