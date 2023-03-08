@@ -1,5 +1,5 @@
 {
   "rust-analyzer.linkedProjects": [
-    "./rust/saddle-points/Cargo.toml"
+    "./rust/scrabble-score/Cargo.toml"
   ]
 }
