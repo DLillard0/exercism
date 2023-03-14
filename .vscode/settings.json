@@ -1,5 +1,5 @@
 {
   "rust-analyzer.linkedProjects": [
-    "./rust/spiral-matrix/Cargo.toml"
+    "./rust/tournament/Cargo.toml"
   ]
 }
